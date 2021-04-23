@@ -1,0 +1,25 @@
+first pls install python 
+
+
+Install python-Cv viva pip command 
+
+
+
+then run Car_detection
+
+
+wait 1min and let the program run 
+
+
+then there will we a window pop up there you can see my project wich is telling where are the cars 
+
+
+
+NOTE : pls make sure no files are deleted 
+
+
+
+thank you
+
+
+pls see the world file for the project cycle and the code 
