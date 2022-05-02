@@ -1,8 +1,7 @@
 import cv2
 #install pythonCv2 by pip command 
-cap = cv2.VideoCapture('carv2.mp4')
-car_cascade = cv2.CascadeClassifier('cars.xml')
-
+cap = cv2.VideoCapture('c:\\Users\\soura\\Desktop\\aryan\\carr_detection\\Car_Detection_System-master\\carv2.mp4')
+car_cascade = cv2.CascadeClassifier("c:\\Users\\soura\\Desktop\\aryan\\carr_detection\\Car_Detection_System-master\\cars.xml")
 #till the requirments are satisfied it will run as true 
 while True:
     ret, frames = cap.read()
